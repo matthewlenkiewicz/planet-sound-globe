@@ -22,7 +22,7 @@
 
 Every layer is real data: live feeds where they exist, and published scientific models where they don't.
 
-| | |
+| Group | Layers |
 | --- | --- |
 | **Solid Earth** | Earthquakes (USGS, plus EMSC's live stream) · Gravity (EGM96 to degree 360) · Magnetic field (IGRF-14, any year from 1900 to 2030) |
 | **Sun & space weather** | Solar radiation · Cosmic rays (cutoff rigidity and live neutron monitors) · Space weather (solar wind, X-ray flares) · Aurora (NOAA OVATION) · Satellites (CelesTrak orbits, SGP4) |
